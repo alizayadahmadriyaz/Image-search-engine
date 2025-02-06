@@ -26,7 +26,7 @@ This is a simple image search application that uses the Unsplash API to fetch an
 
 - `index.html` - HTML structure of the search page (not provided here).
 - `style.css` - Styles for the app (not provided here).
-- `app.js` - JavaScript file for handling the image search and pagination.
+- `script.js` - JavaScript file for handling the image search and pagination.
 
 ### Key Variables
 
